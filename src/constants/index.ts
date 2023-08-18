@@ -125,24 +125,25 @@ export type ExperienceType = {
 
 const experiences: ExperienceType[] = [
     {
-        title: 'React.js Developer',
-        company_name: 'Starbucks',
+        title: 'Full stack Software engineer',
+        company_name: 'Sovtech',
         icon: starbucks,
         iconBg: '#383E56',
-        date: 'March 2020 - April 2021',
+        date: 'September 2021 - Present',
         points: [
-            'Developing and maintaining web applications using React.js and other related technologies.',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
+            'As a Full Stack Engineer at SovTech, I create and maintain responsive web applications using HTML5 CSS3 JavaScript and jQuery',
+            'Collaborate with cross-functional teams to design user-friendly interfaces and implement intuitive user experiences',
+            'Leverage technologies such as React.js, Vue.js, Node.js, Ruby on Rails, and Django to build dynamic and interactive applications',
+            'Ensure high functionality, performance, and security through thorough testing and staying updated with the latest trends',
+            'Deliver compelling web applications at the forefront of web development advancements',
         ],
     },
     {
-        title: 'React Native Developer',
-        company_name: 'Tesla',
+        title: 'Software engineer',
+        company_name: 'I Developers Technology',
         icon: tesla,
         iconBg: '#E6DEDD',
-        date: 'Jan 2021 - Feb 2022',
+        date: 'Jan 2020 - May 2021',
         points: [
             'Developing and maintaining web applications using React.js and other related technologies.',
             'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -152,11 +153,12 @@ const experiences: ExperienceType[] = [
     },
     {
         title: 'Web Developer',
-        company_name: 'Shopify',
+        company_name: 'Upwork',
         icon: shopify,
         iconBg: '#383E56',
         date: 'Jan 2022 - Jan 2023',
         points: [
+            'Actively gathered user feedback to continuously improve software capacity and user experience',
             'Developing and maintaining web applications using React.js and other related technologies.',
             'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
             'Implementing responsive design and ensuring cross-browser compatibility.',
@@ -165,15 +167,15 @@ const experiences: ExperienceType[] = [
     },
     {
         title: 'Full stack Developer',
-        company_name: 'Meta',
+        company_name: 'Andela',
         icon: meta,
         iconBg: '#E6DEDD',
-        date: 'Jan 2023 - Present',
+        date: 'Nov 2017 - Nov 2019',
         points: [
-            'Developing and maintaining web applications using React.js and other related technologies.',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
+            'As a Software Engineer at Andela I developed diverse web applications using JavaScript React CSS HTML Ruby on Rails and Bootstrap',
+            'Collaborated with cross-functional teams to ensure responsive, optimized designs and conducted rigorous testing and debugging for optimal functionality',
+            'Actively gathered user feedback to continuously improve software capacity and user experience',
+            'Utilized troubleshooting and debugging skills to minimize disruptions and ensure robust user-friendly and efficient web applications',
         ],
     },
 ]
@@ -181,7 +183,7 @@ const experiences: ExperienceType[] = [
 const testimonials = [
     {
         testimonial:
-            'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
+            'I thought it was impossible to make a website as beautiful as our product, but Victor proved me wrong.',
         name: 'Sara Lee',
         designation: 'CFO',
         company: 'Acme Co',
@@ -189,7 +191,7 @@ const testimonials = [
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
+            "I've never met a web developer who truly cares about their clients' success like Victor does.",
         name: 'Chris Brown',
         designation: 'COO',
         company: 'DEF Corp',

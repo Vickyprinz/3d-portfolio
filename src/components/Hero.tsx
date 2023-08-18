@@ -16,7 +16,7 @@ const Hero: FC = () => {
                 <div>
                     <h1 className={`${styles.heroHeadText} text-white`}>
                         Hi, I'm{' '}
-                        <span className="text-custom-purple">Adrian</span>
+                        <span className="text-custom-purple">Victor</span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
                         I develop 3D visuals, user{' '}
